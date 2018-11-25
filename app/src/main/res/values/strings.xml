@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">שם האפליקציה</string>
+    <string name="TVAutoCode">קוד</string>
+    <string name="TVAutoBody">מרכב</string>
+    <string name="TVAutoModel">דגם</string>
+    <string name="TVAutoProductionYear">שנת ייצור</string>
+    <string name="TVAutoHorsePower">הספק בכ"ס</string>
+    <string name="TVAutoRagistrationDate">תאריך רישום</string>
+    <string name="ETAutoCode">הכנס קוד</string>
+    <string name="ETAutoBody">הכנס מרכב</string>
+    <string name="ETAutoModel">הכנס דגם</string>
+    <string name="ETAutoProductionYear">הכנס שנת ייצור</string>
+    <string name="ETAutoHorsePower">הכנס הספק בכס</string>
+    <string name="ETAutoRagistrationDate">הכנס תאריך רישום</string>
+    <string name="ButtOCR">שמור</string>
+    <string name="MainMenuItem0_UploadData">צלם</string>
+    <string name="MainMenuItem1_PicPicture">בחר תמונה</string>
+</resources>
